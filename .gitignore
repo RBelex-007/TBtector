@@ -1,0 +1,24 @@
+# Virtual Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datasets & Test Images
+data/
+*.jpg
+*.png
+*.jpeg
+
+# Trained Models / Weights
+*.pth
+*.h5
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
